@@ -11,8 +11,8 @@ mkdir "introdução ao git e ao github" && cd '.\introdução ao git e ao github
 ### 4º Crie um novo arquivo txt com as anotações que serão utilizadas para realizar o desafio:
 echo "Anotações do desafio" > anotacoes.txt
 
-Mas existe outras opções para craiação do arquivo vazio via cmd como:
- fsutil file createnew test.txt 0
+Mas existe outras opções para criação do arquivo vazio via cmd como:
+ fsutil file createnew test.txt 
  wsl touch test1.txt 
  type > test2.txt
  
