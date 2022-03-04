@@ -12,9 +12,9 @@ mkdir "introdução ao git e ao github" && cd '.\introdução ao git e ao github
 echo "Anotações do desafio" > anotacoes.txt
 
 Mas existe outras opções para criação do arquivo vazio via cmd como:
- fsutil file createnew test.txt. 
- wsl touch test1.txt. 
- type > test2.txt.
+ fsutil file createnew test.txt<br>
+ wsl touch test1.txt<br>
+ type > test2.txt<br>
  
  ### 5° Acesse diretório anterior e verifique o status do projeto
  cd ../
